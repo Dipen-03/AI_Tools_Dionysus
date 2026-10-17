@@ -7,12 +7,14 @@
 
 ## Group Name
 
-> [Add your group name here]
+Dionysus
 
 ## Members
 
 - Udit Bhattarai
-- [Add Partner Names Here]
+- Lotus Nyaupane 
+- Milan Khadka
+- Dipen Gaihre
 
 ## Live Site
 
