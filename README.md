@@ -27,17 +27,16 @@ Pure HTML5 + CSS3 + vanilla JavaScript (single file).
 | --- | --- |
 | `screenshot-1-hero.png` | Landing view — hero, product render, live stats |
 | `screenshot-2-arsenal.png` | Feature list ("The Arsenal") section |
-| `screenshot-3-fullpage.png` | Full-page capture of all sections |
+
 
 ## GitHub Repository
 
-> [Paste your repo link here, e.g. https://github.com/your-username/sentinel-x]
+> https://github.com/hamk-ai-autumn-2026/AI_Tools_Dionysus]
 
 ## Which agents and LLMs were used?
 
-> Suggested wording (edit to match what you actually used):
 > "Concept, copywriting and marketing assets were developed with the help of
-> LLM assistants (e.g., Claude / ChatGPT / Kimi). The final website code was
+> LLM assistants (Kimi). The final website code was
 > written and refined as a custom single-file implementation — semantic HTML5,
 > hand-tuned CSS with a custom design system, and vanilla JavaScript
 > (IntersectionObserver reveals, animated counters, parallax) with no frameworks
